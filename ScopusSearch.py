@@ -58,7 +58,7 @@ page = json.loads(page_request.content.decode("utf-8"))
 number_item = int(page['search-results']['opensearch:totalResults'])
 
 ###############################################################################
-# ITER THE PAGE
+# ITER THE PAGES
 
 # some counter
 i=0; count = 25; download = 0
