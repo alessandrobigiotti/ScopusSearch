@@ -64,7 +64,7 @@ number_item = int(page['search-results']['opensearch:totalResults'])
 i=0; count = 25; download = 0
 
 # read from keyboard the paper index to download, it must be cast to INT
-start = int(raw_input("Inserisci l'indice dell'articolo da scaricare; valori: (0, " + str(number_item) + ") \n"))
+start = int(input("Inserisci l'indice dell'articolo da scaricare; valori: (0, " + str(number_item) + ") \n"))
 
 # iter the page in the search results
 for i in range(0, number_item, count):
