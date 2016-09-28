@@ -1,6 +1,6 @@
 #######################################
 # PYTHON SCOPUS DATA RETRIEVE PROGRAM
-# Created by        Alessandro Bigiotti Matr 281812
+# Created by        Alessandro Bigiotti 
 # Using the Scopus API we can download the data with an http request
 
 # This program allow to create a text file
