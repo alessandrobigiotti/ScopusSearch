@@ -5,7 +5,7 @@ This program allows to retrieve some information about scientific papers using S
 # Requiriments
 
 To use this program we will need:
-* The _Python_ compiler;
+* The _Python3_ compiler version;
 * The Scopus API KEY: Create a Key [here](http://dev.elsevier.com/)
 
 # ScopusSearch
