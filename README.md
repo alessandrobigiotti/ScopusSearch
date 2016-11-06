@@ -1,3 +1,6 @@
+# Introduction
+
+This program allows to retrieve some information about scientific papers using Scopus API.
 # ScopusSearch
 
 1. ScopusSearch.py: the executable
