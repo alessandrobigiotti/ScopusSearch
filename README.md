@@ -1,6 +1,6 @@
 # Introduction
 
-This program allows to retrieve some information about scientific papers using Scopus API. Using Scopus API we can avoid the default limitations on the number of papers or on the papers information (title, authors, affiliations, ...).
+This program allows to retrieve some informations about scientific papers using Scopus API. Using Scopus API we can avoid the default limitations on the number of papers and on the papers informations (title, authors, affiliations, ...).
 
 # Requiriments
 
